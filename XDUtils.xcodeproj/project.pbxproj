@@ -24,6 +24,43 @@
 		1F7237B419B25B2300782A44 /* NSData+CommonCrypto.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F7237B219B25B2300782A44 /* NSData+CommonCrypto.m */; };
 		1F7237B719B25BA100782A44 /* AESCryptUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F7237B619B25BA100782A44 /* AESCryptUtils.m */; };
 		1F7237B819B25BA100782A44 /* AESCryptUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F7237B619B25BA100782A44 /* AESCryptUtils.m */; };
+		6F46650119C9339F00A49B89 /* NSDate+TimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4664FF19C9339F00A49B89 /* NSDate+TimeAgo.m */; };
+		6F46650219C9339F00A49B89 /* NSDate+TimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4664FF19C9339F00A49B89 /* NSDate+TimeAgo.m */; };
+		6F46650319C9339F00A49B89 /* NSDateTimeAgo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6F46650019C9339F00A49B89 /* NSDateTimeAgo.bundle */; };
+		6F46652819C9351900A49B89 /* FCActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650619C9351900A49B89 /* FCActionSheet.m */; };
+		6F46652919C9351900A49B89 /* FCActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650619C9351900A49B89 /* FCActionSheet.m */; };
+		6F46652A19C9351900A49B89 /* FCAddToInstapaperActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650819C9351900A49B89 /* FCAddToInstapaperActivity.m */; };
+		6F46652B19C9351900A49B89 /* FCAddToInstapaperActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650819C9351900A49B89 /* FCAddToInstapaperActivity.m */; };
+		6F46652C19C9351900A49B89 /* FCAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650A19C9351900A49B89 /* FCAlertView.m */; };
+		6F46652D19C9351900A49B89 /* FCAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650A19C9351900A49B89 /* FCAlertView.m */; };
+		6F46652E19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650D19C9351900A49B89 /* FCNetworkActivityIndicator.m */; };
+		6F46652F19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650D19C9351900A49B89 /* FCNetworkActivityIndicator.m */; };
+		6F46653019C9351900A49B89 /* FCNetworkImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650F19C9351900A49B89 /* FCNetworkImageLoader.m */; };
+		6F46653119C9351900A49B89 /* FCNetworkImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46650F19C9351900A49B89 /* FCNetworkImageLoader.m */; };
+		6F46653219C9351900A49B89 /* FCOpenInChromeActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651119C9351900A49B89 /* FCOpenInChromeActivity.m */; };
+		6F46653319C9351900A49B89 /* FCOpenInChromeActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651119C9351900A49B89 /* FCOpenInChromeActivity.m */; };
+		6F46653419C9351900A49B89 /* FCOpenInSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651319C9351900A49B89 /* FCOpenInSafariActivity.m */; };
+		6F46653519C9351900A49B89 /* FCOpenInSafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651319C9351900A49B89 /* FCOpenInSafariActivity.m */; };
+		6F46653619C9351900A49B89 /* FCPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651519C9351900A49B89 /* FCPickerViewController.m */; };
+		6F46653719C9351900A49B89 /* FCPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651519C9351900A49B89 /* FCPickerViewController.m */; };
+		6F46653819C9351900A49B89 /* FCReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651719C9351900A49B89 /* FCReachability.m */; };
+		6F46653919C9351900A49B89 /* FCReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651719C9351900A49B89 /* FCReachability.m */; };
+		6F46653A19C9351900A49B89 /* FCSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651919C9351900A49B89 /* FCSheetView.m */; };
+		6F46653B19C9351900A49B89 /* FCSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651919C9351900A49B89 /* FCSheetView.m */; };
+		6F46653C19C9351900A49B89 /* NSArray+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651B19C9351900A49B89 /* NSArray+FCUtilities.m */; };
+		6F46653D19C9351900A49B89 /* NSArray+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651B19C9351900A49B89 /* NSArray+FCUtilities.m */; };
+		6F46653E19C9351900A49B89 /* NSData+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651D19C9351900A49B89 /* NSData+FCUtilities.m */; };
+		6F46653F19C9351900A49B89 /* NSData+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651D19C9351900A49B89 /* NSData+FCUtilities.m */; };
+		6F46654019C9351900A49B89 /* NSString+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651F19C9351900A49B89 /* NSString+FCUtilities.m */; };
+		6F46654119C9351900A49B89 /* NSString+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46651F19C9351900A49B89 /* NSString+FCUtilities.m */; };
+		6F46654219C9351900A49B89 /* NSURL+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652119C9351900A49B89 /* NSURL+FCUtilities.m */; };
+		6F46654319C9351900A49B89 /* NSURL+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652119C9351900A49B89 /* NSURL+FCUtilities.m */; };
+		6F46654419C9351900A49B89 /* UIColor+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652319C9351900A49B89 /* UIColor+FCUtilities.m */; };
+		6F46654519C9351900A49B89 /* UIColor+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652319C9351900A49B89 /* UIColor+FCUtilities.m */; };
+		6F46654619C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */; };
+		6F46654719C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */; };
+		6F46654819C9351900A49B89 /* UIImage+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */; };
+		6F46654919C9351900A49B89 /* UIImage+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +107,44 @@
 		1F7237B519B25BA100782A44 /* AESCryptUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AESCryptUtils.h; sourceTree = "<group>"; };
 		1F7237B619B25BA100782A44 /* AESCryptUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AESCryptUtils.m; sourceTree = "<group>"; };
 		1F7237BA19B25C8500782A44 /* AESCrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AESCrypt.h; sourceTree = "<group>"; };
+		6F4664FE19C9339F00A49B89 /* NSDate+TimeAgo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+TimeAgo.h"; sourceTree = "<group>"; };
+		6F4664FF19C9339F00A49B89 /* NSDate+TimeAgo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+TimeAgo.m"; sourceTree = "<group>"; };
+		6F46650019C9339F00A49B89 /* NSDateTimeAgo.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NSDateTimeAgo.bundle; sourceTree = "<group>"; };
+		6F46650519C9351900A49B89 /* FCActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCActionSheet.h; sourceTree = "<group>"; };
+		6F46650619C9351900A49B89 /* FCActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCActionSheet.m; sourceTree = "<group>"; };
+		6F46650719C9351900A49B89 /* FCAddToInstapaperActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCAddToInstapaperActivity.h; sourceTree = "<group>"; };
+		6F46650819C9351900A49B89 /* FCAddToInstapaperActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCAddToInstapaperActivity.m; sourceTree = "<group>"; };
+		6F46650919C9351900A49B89 /* FCAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCAlertView.h; sourceTree = "<group>"; };
+		6F46650A19C9351900A49B89 /* FCAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCAlertView.m; sourceTree = "<group>"; };
+		6F46650B19C9351900A49B89 /* FCBasics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCBasics.h; sourceTree = "<group>"; };
+		6F46650C19C9351900A49B89 /* FCNetworkActivityIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCNetworkActivityIndicator.h; sourceTree = "<group>"; };
+		6F46650D19C9351900A49B89 /* FCNetworkActivityIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCNetworkActivityIndicator.m; sourceTree = "<group>"; };
+		6F46650E19C9351900A49B89 /* FCNetworkImageLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCNetworkImageLoader.h; sourceTree = "<group>"; };
+		6F46650F19C9351900A49B89 /* FCNetworkImageLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCNetworkImageLoader.m; sourceTree = "<group>"; };
+		6F46651019C9351900A49B89 /* FCOpenInChromeActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCOpenInChromeActivity.h; sourceTree = "<group>"; };
+		6F46651119C9351900A49B89 /* FCOpenInChromeActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCOpenInChromeActivity.m; sourceTree = "<group>"; };
+		6F46651219C9351900A49B89 /* FCOpenInSafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCOpenInSafariActivity.h; sourceTree = "<group>"; };
+		6F46651319C9351900A49B89 /* FCOpenInSafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCOpenInSafariActivity.m; sourceTree = "<group>"; };
+		6F46651419C9351900A49B89 /* FCPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCPickerViewController.h; sourceTree = "<group>"; };
+		6F46651519C9351900A49B89 /* FCPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCPickerViewController.m; sourceTree = "<group>"; };
+		6F46651619C9351900A49B89 /* FCReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCReachability.h; sourceTree = "<group>"; };
+		6F46651719C9351900A49B89 /* FCReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCReachability.m; sourceTree = "<group>"; };
+		6F46651819C9351900A49B89 /* FCSheetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCSheetView.h; sourceTree = "<group>"; };
+		6F46651919C9351900A49B89 /* FCSheetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCSheetView.m; sourceTree = "<group>"; };
+		6F46651A19C9351900A49B89 /* NSArray+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46651B19C9351900A49B89 /* NSArray+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46651C19C9351900A49B89 /* NSData+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46651D19C9351900A49B89 /* NSData+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46651E19C9351900A49B89 /* NSString+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46651F19C9351900A49B89 /* NSString+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46652019C9351900A49B89 /* NSURL+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURL+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46652119C9351900A49B89 /* NSURL+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46652219C9351900A49B89 /* UIColor+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46652319C9351900A49B89 /* UIColor+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46652419C9351900A49B89 /* UIDevice+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+FCUtilities.m"; sourceTree = "<group>"; };
+		6F46652619C9351900A49B89 /* UIImage+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+FCUtilities.h"; sourceTree = "<group>"; };
+		6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FCUtilities.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +202,8 @@
 		1F72378319B2596C00782A44 /* XDUtils */ = {
 			isa = PBXGroup;
 			children = (
+				6F46650419C9351900A49B89 /* FCUtilities */,
+				6F4664FD19C9336E00A49B89 /* TimeUtils */,
 				1F7237A719B2599800782A44 /* CryptUtils */,
 				1F72378619B2596C00782A44 /* XDUtils.h */,
 				1F72378819B2596C00782A44 /* XDUtils.m */,
@@ -183,6 +260,58 @@
 				1F7237BA19B25C8500782A44 /* AESCrypt.h */,
 			);
 			path = AESCrypt;
+			sourceTree = "<group>";
+		};
+		6F4664FD19C9336E00A49B89 /* TimeUtils */ = {
+			isa = PBXGroup;
+			children = (
+				6F4664FE19C9339F00A49B89 /* NSDate+TimeAgo.h */,
+				6F4664FF19C9339F00A49B89 /* NSDate+TimeAgo.m */,
+				6F46650019C9339F00A49B89 /* NSDateTimeAgo.bundle */,
+			);
+			path = TimeUtils;
+			sourceTree = "<group>";
+		};
+		6F46650419C9351900A49B89 /* FCUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				6F46650519C9351900A49B89 /* FCActionSheet.h */,
+				6F46650619C9351900A49B89 /* FCActionSheet.m */,
+				6F46650719C9351900A49B89 /* FCAddToInstapaperActivity.h */,
+				6F46650819C9351900A49B89 /* FCAddToInstapaperActivity.m */,
+				6F46650919C9351900A49B89 /* FCAlertView.h */,
+				6F46650A19C9351900A49B89 /* FCAlertView.m */,
+				6F46650B19C9351900A49B89 /* FCBasics.h */,
+				6F46650C19C9351900A49B89 /* FCNetworkActivityIndicator.h */,
+				6F46650D19C9351900A49B89 /* FCNetworkActivityIndicator.m */,
+				6F46650E19C9351900A49B89 /* FCNetworkImageLoader.h */,
+				6F46650F19C9351900A49B89 /* FCNetworkImageLoader.m */,
+				6F46651019C9351900A49B89 /* FCOpenInChromeActivity.h */,
+				6F46651119C9351900A49B89 /* FCOpenInChromeActivity.m */,
+				6F46651219C9351900A49B89 /* FCOpenInSafariActivity.h */,
+				6F46651319C9351900A49B89 /* FCOpenInSafariActivity.m */,
+				6F46651419C9351900A49B89 /* FCPickerViewController.h */,
+				6F46651519C9351900A49B89 /* FCPickerViewController.m */,
+				6F46651619C9351900A49B89 /* FCReachability.h */,
+				6F46651719C9351900A49B89 /* FCReachability.m */,
+				6F46651819C9351900A49B89 /* FCSheetView.h */,
+				6F46651919C9351900A49B89 /* FCSheetView.m */,
+				6F46651A19C9351900A49B89 /* NSArray+FCUtilities.h */,
+				6F46651B19C9351900A49B89 /* NSArray+FCUtilities.m */,
+				6F46651C19C9351900A49B89 /* NSData+FCUtilities.h */,
+				6F46651D19C9351900A49B89 /* NSData+FCUtilities.m */,
+				6F46651E19C9351900A49B89 /* NSString+FCUtilities.h */,
+				6F46651F19C9351900A49B89 /* NSString+FCUtilities.m */,
+				6F46652019C9351900A49B89 /* NSURL+FCUtilities.h */,
+				6F46652119C9351900A49B89 /* NSURL+FCUtilities.m */,
+				6F46652219C9351900A49B89 /* UIColor+FCUtilities.h */,
+				6F46652319C9351900A49B89 /* UIColor+FCUtilities.m */,
+				6F46652419C9351900A49B89 /* UIDevice+FCUtilities.h */,
+				6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */,
+				6F46652619C9351900A49B89 /* UIImage+FCUtilities.h */,
+				6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */,
+			);
+			path = FCUtilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,6 +385,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F72379C19B2596D00782A44 /* InfoPlist.strings in Resources */,
+				6F46650319C9339F00A49B89 /* NSDateTimeAgo.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,11 +396,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F46653219C9351900A49B89 /* FCOpenInChromeActivity.m in Sources */,
 				1F7237B319B25B2300782A44 /* NSData+CommonCrypto.m in Sources */,
+				6F46654219C9351900A49B89 /* NSURL+FCUtilities.m in Sources */,
 				1F7237B719B25BA100782A44 /* AESCryptUtils.m in Sources */,
 				1F7237AB19B25A3700782A44 /* NSString+Base64.m in Sources */,
+				6F46654019C9351900A49B89 /* NSString+FCUtilities.m in Sources */,
+				6F46653E19C9351900A49B89 /* NSData+FCUtilities.m in Sources */,
+				6F46654819C9351900A49B89 /* UIImage+FCUtilities.m in Sources */,
+				6F46652819C9351900A49B89 /* FCActionSheet.m in Sources */,
+				6F46653A19C9351900A49B89 /* FCSheetView.m in Sources */,
+				6F46652E19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */,
+				6F46653019C9351900A49B89 /* FCNetworkImageLoader.m in Sources */,
+				6F46653819C9351900A49B89 /* FCReachability.m in Sources */,
+				6F46653619C9351900A49B89 /* FCPickerViewController.m in Sources */,
+				6F46653C19C9351900A49B89 /* NSArray+FCUtilities.m in Sources */,
 				1F72378919B2596C00782A44 /* XDUtils.m in Sources */,
+				6F46654619C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */,
+				6F46653419C9351900A49B89 /* FCOpenInSafariActivity.m in Sources */,
 				1F7237AF19B25A9F00782A44 /* NSData+Base64.m in Sources */,
+				6F46650119C9339F00A49B89 /* NSDate+TimeAgo.m in Sources */,
+				6F46652C19C9351900A49B89 /* FCAlertView.m in Sources */,
+				6F46654419C9351900A49B89 /* UIColor+FCUtilities.m in Sources */,
+				6F46652A19C9351900A49B89 /* FCAddToInstapaperActivity.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,11 +426,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F46653319C9351900A49B89 /* FCOpenInChromeActivity.m in Sources */,
 				1F7237B419B25B2300782A44 /* NSData+CommonCrypto.m in Sources */,
+				6F46654319C9351900A49B89 /* NSURL+FCUtilities.m in Sources */,
 				1F7237B819B25BA100782A44 /* AESCryptUtils.m in Sources */,
 				1F7237AC19B25A3700782A44 /* NSString+Base64.m in Sources */,
+				6F46654119C9351900A49B89 /* NSString+FCUtilities.m in Sources */,
+				6F46653F19C9351900A49B89 /* NSData+FCUtilities.m in Sources */,
+				6F46654919C9351900A49B89 /* UIImage+FCUtilities.m in Sources */,
+				6F46652919C9351900A49B89 /* FCActionSheet.m in Sources */,
+				6F46653B19C9351900A49B89 /* FCSheetView.m in Sources */,
+				6F46652F19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */,
+				6F46653119C9351900A49B89 /* FCNetworkImageLoader.m in Sources */,
+				6F46653919C9351900A49B89 /* FCReachability.m in Sources */,
+				6F46653719C9351900A49B89 /* FCPickerViewController.m in Sources */,
+				6F46653D19C9351900A49B89 /* NSArray+FCUtilities.m in Sources */,
 				1F72379E19B2596D00782A44 /* XDUtilsTests.m in Sources */,
+				6F46654719C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */,
+				6F46653519C9351900A49B89 /* FCOpenInSafariActivity.m in Sources */,
 				1F7237B019B25A9F00782A44 /* NSData+Base64.m in Sources */,
+				6F46650219C9339F00A49B89 /* NSDate+TimeAgo.m in Sources */,
+				6F46652D19C9351900A49B89 /* FCAlertView.m in Sources */,
+				6F46654519C9351900A49B89 /* UIColor+FCUtilities.m in Sources */,
+				6F46652B19C9351900A49B89 /* FCAddToInstapaperActivity.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -459,6 +625,7 @@
 				1F7237A319B2596D00782A44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F7237A419B2596D00782A44 /* Build configuration list for PBXNativeTarget "XDUtilsTests" */ = {
 			isa = XCConfigurationList;
@@ -467,6 +634,7 @@
 				1F7237A619B2596D00782A44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
