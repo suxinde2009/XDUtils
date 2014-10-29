@@ -61,6 +61,9 @@
 		6F46654719C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */; };
 		6F46654819C9351900A49B89 /* UIImage+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */; };
 		6F46654919C9351900A49B89 /* UIImage+FCUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */; };
+		6FA656DF1A00DD01007E0640 /* text.text in Sources */ = {isa = PBXBuildFile; fileRef = 6FA656DE1A00DD01007E0640 /* text.text */; };
+		6FA656E21A00DD1C007E0640 /* MarcosTestCases.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA656E11A00DD1C007E0640 /* MarcosTestCases.m */; };
+		6FA656E31A00DD1C007E0640 /* MarcosTestCases.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA656E11A00DD1C007E0640 /* MarcosTestCases.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -145,6 +148,10 @@
 		6F46652519C9351900A49B89 /* UIDevice+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+FCUtilities.m"; sourceTree = "<group>"; };
 		6F46652619C9351900A49B89 /* UIImage+FCUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+FCUtilities.h"; sourceTree = "<group>"; };
 		6F46652719C9351900A49B89 /* UIImage+FCUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FCUtilities.m"; sourceTree = "<group>"; };
+		6FA656DD1A00DC2B007E0640 /* XDMarcos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XDMarcos.h; sourceTree = "<group>"; };
+		6FA656DE1A00DD01007E0640 /* text.text */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = text.text; sourceTree = "<group>"; };
+		6FA656E01A00DD1C007E0640 /* MarcosTestCases.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MarcosTestCases.h; sourceTree = "<group>"; };
+		6FA656E11A00DD1C007E0640 /* MarcosTestCases.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MarcosTestCases.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +209,10 @@
 		1F72378319B2596C00782A44 /* XDUtils */ = {
 			isa = PBXGroup;
 			children = (
+				6FA656DE1A00DD01007E0640 /* text.text */,
+				6FA656DD1A00DC2B007E0640 /* XDMarcos.h */,
+				6FA656E01A00DD1C007E0640 /* MarcosTestCases.h */,
+				6FA656E11A00DD1C007E0640 /* MarcosTestCases.m */,
 				6F46650419C9351900A49B89 /* FCUtilities */,
 				6F4664FD19C9336E00A49B89 /* TimeUtils */,
 				1F7237A719B2599800782A44 /* CryptUtils */,
@@ -405,6 +416,7 @@
 				6F46653E19C9351900A49B89 /* NSData+FCUtilities.m in Sources */,
 				6F46654819C9351900A49B89 /* UIImage+FCUtilities.m in Sources */,
 				6F46652819C9351900A49B89 /* FCActionSheet.m in Sources */,
+				6FA656E21A00DD1C007E0640 /* MarcosTestCases.m in Sources */,
 				6F46653A19C9351900A49B89 /* FCSheetView.m in Sources */,
 				6F46652E19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */,
 				6F46653019C9351900A49B89 /* FCNetworkImageLoader.m in Sources */,
@@ -413,6 +425,7 @@
 				6F46653C19C9351900A49B89 /* NSArray+FCUtilities.m in Sources */,
 				1F72378919B2596C00782A44 /* XDUtils.m in Sources */,
 				6F46654619C9351900A49B89 /* UIDevice+FCUtilities.m in Sources */,
+				6FA656DF1A00DD01007E0640 /* text.text in Sources */,
 				6F46653419C9351900A49B89 /* FCOpenInSafariActivity.m in Sources */,
 				1F7237AF19B25A9F00782A44 /* NSData+Base64.m in Sources */,
 				6F46650119C9339F00A49B89 /* NSDate+TimeAgo.m in Sources */,
@@ -434,6 +447,7 @@
 				6F46654119C9351900A49B89 /* NSString+FCUtilities.m in Sources */,
 				6F46653F19C9351900A49B89 /* NSData+FCUtilities.m in Sources */,
 				6F46654919C9351900A49B89 /* UIImage+FCUtilities.m in Sources */,
+				6FA656E31A00DD1C007E0640 /* MarcosTestCases.m in Sources */,
 				6F46652919C9351900A49B89 /* FCActionSheet.m in Sources */,
 				6F46653B19C9351900A49B89 /* FCSheetView.m in Sources */,
 				6F46652F19C9351900A49B89 /* FCNetworkActivityIndicator.m in Sources */,
